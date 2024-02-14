@@ -26,11 +26,3 @@
 
 ## Контакты
 Все предложения и замечания можете отправлять на почту klikest@bk.ru или https://vk.com/belotskiialexey
-
-
-## License
-
-MIT
-
-
-
